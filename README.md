@@ -14,4 +14,6 @@ Free DTV 外链接口
 
 https://gitee.com/gyhxx/freedtv/raw/master/
 
+https://raw.sevencdn.com/gyhxxx/freedtv/main/
+
 ## 注意别漏掉最后的斜杠!!!!!!
