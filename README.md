@@ -1,8 +1,7 @@
 # freedtv
 
 # FreedDTV————ZYPlayer————红影TV
-![image](https://gitee.com/gyhxx/pic/raw/master/freedtv/1.png)
-
+https://gitee.com/gyhxx/pic/raw/master/freedtv/1.png
 
 https://gitee.com/gyhxx/pic/raw/master/freedtv/2.png
 #### 介绍
