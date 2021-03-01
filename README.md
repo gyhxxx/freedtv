@@ -1,8 +1,9 @@
 # freedtv
-# FreedDTV————ZYPlayer————红影TV
-![](https://gitee.com/gyhxx/pic/raw/master/freedtv/1.png "")
 
-![](https://gitee.com/gyhxx/pic/raw/master/freedtv/2.png "")
+# FreedDTV————ZYPlayer————红影TV
+https://gitee.com/gyhxx/pic/raw/master/freedtv/1.png
+
+https://gitee.com/gyhxx/pic/raw/master/freedtv/2.png
 #### 介绍
 Free DTV 外链接口
 
