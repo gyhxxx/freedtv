@@ -1,0 +1,202 @@
+{
+  "data": [
+    {
+      "name": "(新增)稳定轮播*荐*",
+      "pic": "https://tva3.sinaimg.cn/large/0072Vf1pgy1foxkf2ckn5j31hc0u0nkl.jpg",
+      "url": "https://gitee.com/freedTV/freed/raw/master/tv/douyu.txt",
+      "type": "txt",
+      "subTitle": "经典动画电影整理中",
+      "click": true,
+      "autoNext": true,
+      "decoder": 0,
+      "webPlus": {}
+    },
+    {
+      "name": "(新增)hy电影(选IJK解码)",
+      "pic": "https://tva1.sinaimg.cn/large/a15b4afegy1fmvjekvk6yj21hc0u0h7x.jpg",
+      "url": "https://gitee.com/freedTV/freed/raw/master/tv/电影轮播.txt",
+      "type": "txt",
+      "subTitle": "",
+      "click": true,
+      "autoNext": false,
+      "decoder": 1,
+      "webPlus": {}
+    },
+    {
+      "name": "(新增)hy电视(选IJK解码)",
+      "pic": "https://tva1.sinaimg.cn/large/0072Vf1pgy1foxkc6qp2sj31hc0u0k1p.jpg",
+      "url": "https://gitee.com/freedTV/freed/raw/master/tv/电视轮播.txt",
+      "type": "txt",
+      "subTitle": "",
+      "click": true,
+      "autoNext": false,
+      "decoder": 1,
+      "webPlus": {}
+    },
+    {
+      "name": "(新增)hy综艺(选IJK解码)",
+      "pic": "https://tva4.sinaimg.cn/large/a15b4afely1fnt9plhh8oj21hc0u0dxy.jpg",
+      "url": "https://gitee.com/freedTV/freed/raw/master/tv/综艺轮播.txt",
+      "type": "txt",
+      "subTitle": "",
+      "click": true,
+      "autoNext": false,
+      "decoder": 1,
+      "webPlus": {}
+    },
+    {
+      "name": "yk(新增/IJK解码)",
+      "pic": "https://tva1.sinaimg.cn/large/a15b4afely1fmvj6ly1yqj21hc0u00vv.jpg",
+      "url": "https://gitee.com/freedTV/freed/raw/master/tv/youku.m3u",
+      "type": "txt",
+      "subTitle": "经典动画电影整理中",
+      "click": false,
+      "autoNext": false,
+      "decoder": 1,
+      "webPlus": {}
+    },
+    {
+      "name": "央卫(更新:20210205)",
+      "pic": "https://tva1.sinaimg.cn/large/0072Vf1pgy1fodqgoyhkrj31hc0u0khb.jpg",
+      "url": "https://gitee.com/freedTV/freed/raw/master/tv/live.m3u",
+      "type": "txt",
+      "subTitle": "经典动画电影整理中",
+      "click": true,
+      "autoNext": false,
+      "decoder": 0,
+      "webPlus": {}
+    },
+    {
+      "name": "iHOT系列",
+      "pic": "https://tva3.sinaimg.cn/large/a15b4afegy1fmvjkpglf3j21hc0u0h59.jpg",
+      "url": "https://gitee.com/freedTV/freed/raw/master/tv/ihot.m3u",
+      "type": "m3u",
+      "subTitle": "经典动画电影整理中",
+      "click": true,
+      "autoNext": false,
+      "decoder": 0,
+      "webPlus": {}
+    },
+    {
+      "name": "YY轮播(选IKJ解码)",
+      "pic": "https://tva3.sinaimg.cn/large/0072Vf1pgy1foxkipc63ij31hc0u0wv2.jpg",
+      "url": "https://gitee.com/freedTV/freed/raw/master/tv/yy.m3u",
+      "type": "m3u",
+      "subTitle": "经典动画电影整理中",
+      "click": true,
+      "autoNext": false,
+      "decoder": 0,
+      "webPlus": {}
+    }
+  ]
+}s://gimg2.baidu.com/image_search/src=http%3A%2F%2F5b0988e595225.cdn.sohucs.com%2Fq_70%2Cc_zoom%2Cw_640%2Fimages%2F20171209%2Fd95a76e429c941e6843297ce1a6b4259.jpeg&refer=http%3A%2F%2F5b0988e595225.cdn.sohucs.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1611911271&t=ce099bb3567be50a159738e2fa59382f",
+      "url": "https://gitee.com/asfaiptv/asfaiptv/raw/master/all.m3u",
+      "type": "m3u",
+      "subTitle": "TV",
+      "click": false
+    },
+    {
+      "name": "国际全面2(选原生解码)",
+      "pic": "https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=1943088397,3836185564&fm=26&gp=0.jpg",
+      "url": "https://gitee.com/customiedtv/tv/raw/master/News%20TV.txt",
+      "type": "txt",
+      "subTitle": "TV",
+      "click": false
+    },
+    {
+      "name": "Youku轮播(选IKJ解码)",
+      "pic": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fpic1.win4000.com%2Fmobile%2F2020-11-26%2F5fbf73ae62cd0.jpg&refer=http%3A%2F%2Fpic1.win4000.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1611911657&t=515c33119f1b19291b5c32761b5a34ac",
+      "url": "https://gitee.com/freedTV/freed/raw/master/tv/youku.m3u",
+      "type": "m3u",
+      "subTitle": "自用，严禁分享，商用",
+      "click": false,
+      "webPlus": {}
+    },
+    {
+      "name": "CIBN轮播(选IJK解码)",
+      "pic": "https://gitee.com/wpcmzjk/tv/raw/master/png/3.jpg",
+      "url": "https://gitee.com/freedTV/freed/raw/master/tv/cibn.m3u",
+      "type": "m3u",
+      "subTitle": "自用，严禁分享，商用",
+      "click": false,
+      "webPlus": {}
+    },
+    {
+      "name": "动画电影",
+      "pic": "https://gitee.com/wpcmzjk/tv/raw/master/png/21.jpg",
+      "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/donghuadianying.json",
+      "type": "gitJson",
+      "subTitle": "自用，严禁分享，商用",
+      "click": false,
+      "webPlus": {}
+    },
+    {
+      "name": "电影轮播(选IJK解码)",
+      "pic": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fpic1.win4000.com%2Fmobile%2F2019-03-11%2F5c860ce444aee.jpg&refer=http%3A%2F%2Fpic1.win4000.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1611911755&t=6d831b64211210fe76a30160865354cd",
+      "url": "https://gitee.com/freedTV/freed/raw/master/tv/电影轮播.txt",
+      "type": "txt",
+      "subTitle": "",
+      "click": true,
+      "autoNext": false,
+      "decoder": 1,
+      "webPlus": {}
+    },
+    {
+      "name": "电视轮播(选IJK解码)",
+      "pic": "https://ss1.baidu.com/9vo3dSag_xI4khGko9WTAnF6hhy/zhidao/wh%3D450%2C600/sign=adffe279ebf81a4c2667e4cde21a4c6f/b8014a90f603738d08bb5c2fb31bb051f919ecce.jpg",
+      "url": "https://gitee.com/freedTV/freed/raw/master/tv/电视轮播.txt",
+      "type": "txt",
+      "subTitle": "",
+      "click": true,
+      "autoNext": false,
+      "decoder": 1,
+      "webPlus": {}
+    },
+    {
+      "name": "动漫轮播(选IJK解码)",
+      "pic": "https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=1461609254,3032093224&fm=26&gp=0.jpg",
+      "url": "https://gitee.com/freedTV/freed/raw/master/tv/动漫轮播.json",
+      "type": "gitJson",
+      "subTitle": "动漫轮播",
+      "decoder": 1,
+      "click": false
+    },
+    {
+      "name": "综艺轮播(选IJK解码)",
+      "pic": "https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=2032804702,1678610031&fm=26&gp=0.jpg",
+      "url": "https://gitee.com/freedTV/freed/raw/master/tv/综艺轮播.txt",
+      "type": "txt",
+      "subTitle": "",
+      "click": true,
+      "autoNext": false,
+      "decoder": 1,
+      "webPlus": {}
+    },
+    {
+      "name": "kapion港澳台(选EXO解码)",
+      "pic": "https://gitee.com/wpcmzjk/tv/raw/master/png/31.jpg",
+      "url": "https://gitee.com/kapion/tv/raw/master/per.txt",
+      "type": "txt",
+      "subTitle": "TV",
+      "decoder": 0,
+      "click": false
+    },
+    {
+      "name": "whp2013普通卫视(选IKJ或EXO解码)",
+      "pic": "https://gitee.com/wpcmzjk/tv/raw/master/png/32.jpg",
+      "url": "https://gitee.com/whp2013/iptv/raw/master/iptv.txt",
+      "type": "txt",
+      "subTitle": "TV",
+      "click": false
+    },
+    {
+      "name": "qq251卫视(选原生解码)",
+      "pic": "https://gitee.com/wpcmzjk/tv/raw/master/png/39.jpg",
+      "url": "https://gitee.com/qq251736474/tv/raw/master/zxy.txt",
+      "type": "txt",
+      "subTitle": "TV",
+      "decoder": 0,
+      "click": true
+    }
+  ]
+}
