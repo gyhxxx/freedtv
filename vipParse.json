@@ -1,112 +1,16 @@
 {
   "data": [
     {
-      "id": 1,
-      "name": "解析1",
+      "id": 19,
+      "name": "自定义1",
       "ad": "no",
-      "url": "https://pay.520yk.cn/256/?url="
+      "url": "https://api.leduotv.com/wp-api/ifr.php?vid="
     },
     {
-      "id": 2,
-     "name": "解析2",
-      "Url": "http://api.baiyug.vip/index.php?url=",
-      "ad": "no"
-    },
-    {
-      "id": 3,
-     "name": "解析3",
-      "Url": "http://playx.top/?url=",
-      "ad": "no"
-    },
-    {
-      "id": 4,
-     "name": "解析4",
-      "Url": "http://play1.online/?url=",
-      "ad": "no"
-    },
-    {
-      "id": 5,
-     "name": "解析5",
-      "Url": "http://api.baiyug.vip/?url=",
-      "ad": "no"
-    },
-    {
-      "id": 6,
-     "name": "解析6",
-      "Url": "http://bofang.online/?url=",
-      "ad": "no"
-    },
-    {
-      "id": 7,
-     "name": "解析7",
-      "Url": "http://607p.com/?url=",
-      "ad": "no"
-    },
-    {
-      "id": 8,
-     "name": "解析8",
-      "Url": "http://pangujx.cc/?url=",
-      "ad": "no"
-    },
-    {
-      "id": 9,
-     "name": "解析9",
-      "Url": "http://jx.quanmingjiexi.com/?url=",
-      "ad": "no"
-    },
-    {
-      "id": 10,
-     "name": "解析10",
-      "Url": "https://dm.lby.pet/m3u8.php?url=",
-      "ad": "no"
-    },
-    {
-      "id": 11,
-     "name": "解析11",
-      "Url": "http://jqaaa.com/jx.php?url=",
-      "ad": "no"
-    },
-    {
-      "id": 12,
-     "name": "解析12",
-      "Url": "https://www.qianyicp.com/jiexi/index.php?url=",
-      "ad": "no"
-    },
-    {
-      "id": 13,
-     "name": "解析13",
-      "Url": "https://www.xymav.com/?url=",
-      "ad": "no"
-    },
-    {
-      "id": 14,
-     "name": "解析14",
-      "Url": "https://www.1717yun.com/jx/ty.php?url=",
-      "ad": "no"
-    },
-    {
-      "id": 15,
-     "name": "解析15",
-      "Url": "https://jx.mw0.cc/?url=",
-      "ad": "no"
-    },
-    {
-      "id": 16,
-     "name": "解析16",
-      "Url": "https://jx.618g.com/?url=",
-      "ad": "no"
-    },
-    {
-      "id": 17,
-     "name": "解析17",
-      "Url": "https://plamgtvcache.ccyjjd.com/play.php?url=",
-      "ad": "no"
-    },
-    {
-      "id": 18,
-     "name": "解析18",
-      "Url": "https://okjx.cc?url=",
-      "ad": "no"
+      "id": 19,
+      "name": "自定义2",
+      "ad": "no",
+      "url": "https://sb.5gseo.net/?url="
     }
   ]
 }
